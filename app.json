@@ -1,8 +1,8 @@
 {
-    "name": "KyyMusic",
+    "name": "MakimaMusic",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/muhamadrizky16/KyyMusic",
+    "repository": "https://github.com/alupiee/MakimaMusic3",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
